@@ -15,7 +15,7 @@
 
   Do not change the skeleton code! The point of this assignment
   is to figure out how the functions can be written this way
-  (using fold). You may only replace the `error "TBD:..."` terms.
+  (using fold). You may only replace the `error "TBD:..."` terms. 
 
 -}
 
